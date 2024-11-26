@@ -24,7 +24,7 @@
   "bugs": "",
   "homepage": "",
   "dependencies": {
-    "@carbon/charts": "^0.50.4",
+    "@carbon/charts": "^0.53.5",
     "@carbon/themes": "^10.44.0",
     "carbon-components": "^10.45.0",
     "d3": "^7.1.1"
